@@ -1,2 +1,2 @@
-# jobsearchdesign
-Find out what it takes to be successful in your design job search.
+# Jobserach.design
+The Senior Product Designer Jobsearch
